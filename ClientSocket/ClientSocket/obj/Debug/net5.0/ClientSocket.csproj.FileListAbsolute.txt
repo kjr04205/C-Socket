@@ -1,0 +1,16 @@
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ClientSocket.exe
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ClientSocket.deps.json
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ClientSocket.runtimeconfig.json
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ClientSocket.runtimeconfig.dev.json
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ClientSocket.dll
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ref\ClientSocket.dll
+C:\C#\ClientSocket\ClientSocket\bin\Debug\net5.0\ClientSocket.pdb
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.csprojAssemblyReference.cache
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.AssemblyInfoInputs.cache
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.AssemblyInfo.cs
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.csproj.CoreCompileInputs.cache
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.dll
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ref\ClientSocket.dll
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.pdb
+C:\C#\ClientSocket\ClientSocket\obj\Debug\net5.0\ClientSocket.genruntimeconfig.cache
