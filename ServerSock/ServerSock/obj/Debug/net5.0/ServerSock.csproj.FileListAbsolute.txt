@@ -1,0 +1,15 @@
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ServerSock.exe
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ServerSock.deps.json
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ServerSock.runtimeconfig.json
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ServerSock.runtimeconfig.dev.json
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ServerSock.dll
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ref\ServerSock.dll
+C:\C#\ServerSock\ServerSock\bin\Debug\net5.0\ServerSock.pdb
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.AssemblyInfoInputs.cache
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.AssemblyInfo.cs
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.csproj.CoreCompileInputs.cache
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.dll
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ref\ServerSock.dll
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.pdb
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.genruntimeconfig.cache
