@@ -13,3 +13,4 @@ C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.dll
 C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ref\ServerSock.dll
 C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.pdb
 C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.genruntimeconfig.cache
+C:\C#\ServerSock\ServerSock\obj\Debug\net5.0\ServerSock.csprojAssemblyReference.cache

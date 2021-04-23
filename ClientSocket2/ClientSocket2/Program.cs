@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Text;
 
-namespace ClientSocket
+namespace ClientSocket2
 {
     class Program
     {
@@ -19,7 +19,7 @@ namespace ClientSocket
             {
                 byte[] buff = new byte[1000];
                 int n = socket.Receive(buff);
-                
+
                 string result = Encoding.UTF8.GetString(buff, 0, n);
 
                 Console.Write("관리자 : ");
@@ -39,8 +39,8 @@ namespace ClientSocket
             Thread t1 = new Thread(new ThreadStart(DoSomething));
             t1.Start();
             string message = string.Empty;
-            
-            while((message = Console.ReadLine()) != "x")
+
+            while ((message = Console.ReadLine()) != "x")
             {
                 byte[] buff = Encoding.UTF8.GetBytes(message);
                 socket.Send(buff);
